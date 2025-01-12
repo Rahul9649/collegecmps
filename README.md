@@ -1,3 +1,5 @@
+COLLEGE COMPASS
+
 KEAM allotment helper website is designed to streamline the college selection and application
 process for students participating in the Government’s KEAM (Kerala Engineering, Architecture,
 and Medical) allotment. The website provides a user-friendly platform where students can input
